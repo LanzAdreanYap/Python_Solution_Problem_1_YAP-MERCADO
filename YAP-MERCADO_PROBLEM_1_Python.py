@@ -21,6 +21,5 @@ def F():
         p.xlabel("n") #label the x-axis 'n'
         p.ylabel("f(n)") #label the y-axis 'f(n)'
         p.title("Graph of f(n) from n = 0 to n = 99") #set the title of the graph
-        p.show #show the plot
         
     
